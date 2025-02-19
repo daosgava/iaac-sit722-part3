@@ -1,3 +1,3 @@
-# Iaac for 722 Part 3
+# Terraform - Kubernetes Cluster Azure
 
 This example uses Terraform to create a Kubernetes cluster in Azure.
